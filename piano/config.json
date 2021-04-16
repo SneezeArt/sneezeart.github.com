@@ -1,0 +1,11 @@
+{
+  "version": "2.0.0.0",
+  "update": {
+    "version": "2.0.0",
+    "message": "1、优化播放体验"
+  },
+  "hometitle_color" : "255,255,255",
+  "homebg": "https://www.musicnotes.com/images2/promos/store/900x520_piano-min.jpg",
+  "vipbg": "https://www.thesapphiresalonpittston.com/wp-content/uploads/2017/01/sapphire-spa-bg.jpg?w=640",
+  "music_url_prefix": "https://sneezeart.github.io/piano/resources/"
+}
